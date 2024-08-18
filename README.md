@@ -38,8 +38,14 @@ Due to the above challenges, he wants to see a simplistic and digestible view so
 # End Result
 An Automated real-time dashboard providing quick insights & latest sales insights in order to support data-driven decision-making.
 
-Other Success-Criterias Achieved
+Other Success-Criteria Achieved
 1. A dashboard uncovering sales order insights with the latest data available.
 2. The Sales Team is able to make better decisions & prove 10% cost savings of total spend.
 3. Sales Analysts to stop data gathering manually to save 20% of their business time.
 4. Sales were bumped by 5%.
+
+# Dashboard
+![sales insights -1](https://github.com/user-attachments/assets/6d55821c-6ec0-486e-831f-9c7ad745b702)
+
+
+![sales insights-2](https://github.com/user-attachments/assets/939323a2-420c-42ed-9080-1b7b6a72a6ba)
